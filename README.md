@@ -1,0 +1,1 @@
+Developed a Weather App to provide real-time weather updates, including temperature, humidity, and forecasts. The app features a responsive design, intuitive user interface, and smooth interaction, ensuring a seamless and engaging weather tracking experience.
